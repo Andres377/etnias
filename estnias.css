@@ -97,23 +97,24 @@ a{
 }
 .nomas:hover{
 	color: gray;
-		position: absolute;
+	position: absolute;
 	font-size: 90%;
-	height: 80%;
-	width: 90%;
+	height: 8%;
+	width: 100%;
 	z-index: 13;
 }
 .nom{
 	position: absolute;
 	font-size: 130%
-	width:13%;
+	width:100%;
 
 }
 .nom:hover{
+
 	color: gray;
 	position: absolute;
 	font-size: 95%;
-	height: 80%;
-	width: 90%;
+	height: 8%;
+	width: 100%;
 	z-index: 13;
 }
